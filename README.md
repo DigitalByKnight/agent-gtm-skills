@@ -1,5 +1,7 @@
 # The GTM Stack
 
+**[agentgtmskills.com](https://agentgtmskills.com)**
+
 Your AI agent can write code, debug systems, and ship features. Ask it to price your product, build a cold outreach sequence, or plan a 16-channel launch, and you get generic advice from 2021 blog posts.
 
 These 18 skills fix that.
